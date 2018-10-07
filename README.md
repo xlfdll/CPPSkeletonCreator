@@ -13,7 +13,7 @@ CPPSkeletonCreator [/?] | [<HeaderFilePath> <CodeFilePath>] [/overwrite]
 * **\<no arguments\>** - Interactive mode (file save dialogs will open)
 * **/?** - Show usage
 * **\<HeaderFilePath\> \<CodeFilePath\>** - Silent mode. Create skeleton files based on given paths
-* **/overwrite** - In both interactive and silent modes, suppresses the prompt and overwrites all existing files automatically
+* **/overwrite** - In both interactive and silent modes, suppress the prompt and overwrite all existing files automatically
 
 ## Development Prerequisites
 * Visual Studio 2012+

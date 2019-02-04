@@ -1,5 +1,5 @@
 # C/C++ Header / Code Skeleton Creator
-A simple program to create empty C++ header and code files with preprocessor guards
+A simple program to create empty C / C++ header and code files with preprocessor guards
 
 ## System Requirements
 * .NET Framework 2.0
